@@ -1,0 +1,13 @@
+
+.dart_tool/package_config.json
+.idea/another_flushbar-1.12.29.iml
+.idea/libraries/Dart_Packages.xml
+.idea/libraries/Dart_SDK.xml
+.idea/libraries/Flutter_Plugins.xml
+.idea/modules.xml
+.idea/vcs.xml
+example/.dart_tool/package_config.json
+example/.dart_tool/package_config_subset
+example/.dart_tool/version
+example/pubspec.lock
+pubspec.lock

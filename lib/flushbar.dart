@@ -436,7 +436,7 @@ class _FlushbarState<K extends Object?> extends State<Flushbar<K>>
                 return _emptyWidget;
               }
               return ClipRRect(
-                borderRadius: widget.borderRadius,
+                borderRadius: const BorderRadius.all(Radius.circular(10)),
                 child: BackdropFilter(
                   filter: ImageFilter.blur(
                       sigmaX: widget.barBlur, sigmaY: widget.barBlur),
